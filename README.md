@@ -2,13 +2,13 @@
 
 ## Identitas Mahasiswa
 
-Nama : NAMA LENGKAP ANDA
+Nama : Sisilia Irna Lakapu
 
-NIM : NIM ANDA
+NIM : 202359201029
 
 ## Pernyataan Hak Cipta
 
-Kode sumber aplikasi ini dibuat oleh NAMA LENGKAP ANDA pada 2026 untuk mengerjakan soal UTS Pemrograman Web II.
+Kode sumber aplikasi ini dibuat oleh Sisilia Irna Lakapu pada 2026 untuk mengerjakan soal UTS Pemrograman Web II.
 
 ## Deskripsi Aplikasi
 
